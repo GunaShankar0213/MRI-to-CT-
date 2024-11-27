@@ -132,4 +132,4 @@ This project leverages research and innovations in medical imaging and deep lear
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License. See the LICENSE file for details.
