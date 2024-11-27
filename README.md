@@ -93,8 +93,8 @@ The pre-trained weights provided in this repository can be used to:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/MRI-to-CT.git
-   cd MRI-to-CT
+   git clone [https://github.com/GunaShankar0213/MRI-to-CT.git
+   cd MRI-to-CT](https://github.com/GunaShankar0213/MRI-to-CT-/)
    ```
 
 2. **Setup the environment**:
